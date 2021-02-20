@@ -1,29 +1,28 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Suspected,
-Anhui,Mainland China,1/21/2020 10pm,,,,3,
-Beijing,Mainland China,1/21/2020 10pm,10,,,,
-Chongqing,Mainland China,1/21/2020 10pm,5,,,,
-Guangdong,Mainland China,1/21/2020 10pm,17,,,4,
-Guangxi,Mainland China,1/21/2020 10pm,,,,1,
-Guizhou,Mainland China,1/21/2020 10pm,,,,1,
-Hainan,Mainland China,1/21/2020 10pm,,,,1,
-Heilongjiang,Mainland China,1/21/2020 10pm,,,,1,
-Henan,Mainland China,1/21/2020 10pm,1,,,,
-Hong Kong,Hong Kong,1/21/2020 10pm,,,,117,
-Hubei,Mainland China,1/21/2020 10pm,270,6,25,11,
-Hunan,Mainland China,1/21/2020 10pm,1,,,,
-Jiangxi,Mainland China,1/21/2020 10pm,2,,,,
-Jilin,Mainland China,1/21/2020 10pm,,,,1,
-Liaoning,Mainland China,1/21/2020 10pm,,,,1,
-Ningxia,Mainland China,1/21/2020 10pm,,,,1,
-Shandong,Mainland China,1/21/2020 10pm,1,,,,
-Shanghai,Mainland China,1/21/2020 10pm,9,,,10,
-Sichuan,Mainland China,1/21/2020 10pm,2,,,1,
-Taiwan,Taiwan,1/21/2020 10pm,1,,,,
-Tianjin,Mainland China,1/21/2020 10pm,2,,,,
-Yunnan,Mainland China,1/21/2020 10pm,1,,,,
-Zhejiang,Mainland China,1/21/2020 10pm,5,,,16,
-,Japan,1/21/2020 10pm,1,,,,
-Washington,US,1/21/2020 10pm,1,,,,
-,South Korea,1/21/2020 10pm,1,,,,
-,Thailand,1/21/2020 10pm,2,,,,
-,,,,,,,
+Province/State,Country/Region,Lat,Long,1/22/2020,1/23/2020,1/24/2020,1/25/2020,1/26/2020,1/27/2020,1/28/2020
+Anhui,Mainland China,11.1,111.1,1,1,1,1,1,1,1
+Beijing,Mainland China,11.1,111.1,2,2,2,2,2,2,2
+Chongqing,Mainland China,11.1,111.1,2,2,2,2,2,2,2
+Guangdong,Mainland China,11.1,111.1,2,2,2,2,2,2,2
+Guangxi,Mainland China,11.1,111.1,2,2,2,2,2,2,2
+Guizhou,Mainland China,11.1,111.1,3,3,3,3,3,3,3
+Hainan,Mainland China,11.1,111.1,4,4,4,4,4,4,4
+Heilongjiang,Mainland China,11.1,111.1,5,5,5,5,5,5,5
+Henan,Mainland China,11.1,111.1,6,6,6,6,6,6,6
+Hong Kong,Hong Kong,11.1,111.1,7,7,7,7,7,7,7
+Hubei,Mainland China,11.1,111.1,8,8,8,8,8,8,8
+Hunan,Mainland China,11.1,111.1,9,9,9,9,9,9,9
+Jiangxi,Mainland China,11.1,111.1,10,10,10,10,10,10,10
+Jilin,Mainland China,11.1,111.1,11,11,11,11,11,11,11
+Liaoning,Mainland China,11.1,111.1,12,12,12,12,12,12,12
+Ningxia,Mainland China,11.1,111.1,13,13,13,13,13,13,13
+Shandong,Mainland China,11.1,111.1,14,14,14,14,14,14,14
+Shanghai,Mainland China,11.1,111.1,15,15,15,15,15,15,15
+Sichuan,Mainland China,11.1,111.1,16,16,16,16,16,16,16
+Taiwan,Taiwan,11.1,111.1,17,17,17,17,17,17,17
+Tianjin,Mainland China,11.1,111.1,18,18,18,18,18,18,18
+Yunnan,Mainland China,11.1,111.1,19,19,19,19,19,19,19
+Zhejiang,Mainland China,11.1,111.1,20,20,20,20,20,20,20
+,Japan,11.1,111.1,21,21,21,21,21,21,21
+Washington,US,11.1,111.1,22,22,22,22,22,22,22
+,South Korea,11.1,111.1,23,23,23,23,23,23,23
+,Thailand,11.1,111.1,24,24,24,24,24,24,24
